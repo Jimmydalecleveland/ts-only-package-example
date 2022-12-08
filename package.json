@@ -2,6 +2,7 @@
   "name": "ts-only-package",
   "version": "0.1.0",
   "description": "An example package outputting code only with TS",
+  "sideEffects": false,
   "main": "dist/index.js",
   "module": "dist/index.js",
   "types": "dist/index.d.ts",
